@@ -1,0 +1,23 @@
+body, html {
+    scroll-behavior: smooth;
+    height: 100%;
+    width: 100%;
+  }
+a{
+   color: #0d1013;
+}
+header{
+    z-index: 1;
+}
+.home{
+    background-image: url('photos/67582192_356226618637920_715355790567218239_n.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#bgimgsec, #photos{
+    margin-right: 0;
+    margin-left: 0;
+    padding-right: 0;
+    padding-left: 0;
+}
